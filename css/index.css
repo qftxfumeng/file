@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    width: 100vw;
+    
+}
+.header{
+    width: 100vw;
+    padding-top:8vw; 
+    padding-bottom: 1vw;
+    background-color:#1575c1;
+    color: #ffffff;
+    text-align: center;
+}
+.section{
+    padding: 0 1vw;
+}
+.section h5{
+   margin: 4vw 0 6vw 0;
+   text-align: center;
+   color: #6f6b64;
+}
+.section label{
+    line-height: 7vw; 
+}
+.section label span{
+    color: #ff7f81;
+}
+.section input{
+    width: 96vw;
+    line-height: 10vw;
+    outline: none;
+    border: 0.1vw solid #ccc;
+}
+.section-info{
+    margin-bottom: 2vw;
+}
+.section button{
+    width: 98vw;
+    background-color: #52c018;
+    line-height: 10vw;
+    font-size: 5vw;
+    outline: none;
+    border: none;
+    color: #ffffff;
+    border-radius: 5px;
+    margin-top: 6vw;
+}
+.footer{
+    width: 96vw;
+    border: 0.1vw solid #cccccc;
+    text-align: center;
+    margin-top: 5vw;
+    padding-top:2vw;
+    padding-bottom: 4vw;
+    margin-left: 1.5vw;
+}
+.footer img{
+    width: 18vw;
+    height: auto;
+}
+.footer p{
+    padding: 0 20vw;
+    color: #cccccc;
+    margin-bottom: 5vw;
+}
+.footer a{
+    line-height: 5vw;
+    text-align: center;
+    color: #cccccc;
+    padding:1vw 4vw; 
+    border: 0.1vw solid #cccccc; 
+    text-decoration: none;
+    
+}
